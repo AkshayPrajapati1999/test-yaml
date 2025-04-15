@@ -1,9 +1,9 @@
 
-name: Custom Node.js CI
+name: Custom Node.js CI and Angular
 
 on:
   push:
-    branches: [main]
+    branches: [main] [master]
 
 jobs:
   build:
