@@ -1,10 +1,5 @@
-
-name: Custom Node.js CI and Angular
-
-on:
-  push:
-    branches: [main] [master]
-
+name: Test Workflow
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
