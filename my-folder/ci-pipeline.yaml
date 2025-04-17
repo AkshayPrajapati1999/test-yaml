@@ -1,4 +1,4 @@
-name: Demo Test Akki Demo Test Workflow
+name: Demo Test AppUnik Demo Test Workflow
 on: [push]
 jobs:
   build:
